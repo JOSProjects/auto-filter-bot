@@ -61,8 +61,6 @@ OR
 - Mongo DB URL Obtained From [Mongo DB](http://www.mongodb.com)
 
 ## How to Deploy
-- You can deploy this bot anywhere.
-
 Click the below button to watch the video tutorial on deploying
 
 <a href="https://youtu.be/FKaAU4Pr2bw"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a>
@@ -70,6 +68,7 @@ Click the below button to watch the video tutorial on deploying
 
 
 ## Deploy Now
+You can deploy this bot anywhere.
 
 <details><summary>Deploy to Heroku</summary>
 <p>
