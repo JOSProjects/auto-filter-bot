@@ -1,0 +1,46 @@
+{
+    "name": "Auto Filter Bot",
+    "description": "A Filter Bot Which Doesn't Need Manuall Filter Adding",
+    "logo": "https://telegra.ph/file/c9841b8c7906ac8ef85be.png",
+    "keywords": [
+        "Auto",
+        "Filter",
+        "Mongo DB"
+    ],
+    "website": "https://github.com/ZauteKm",
+    "repository": "https://github.com/tgbotsProject/Auto-Filter-Bot",
+    "success_url": "https://telegram.dog/tgbotsProject",
+    "env": {
+        "APP_ID": {
+            "description": "Your APP ID From my.telegram.org or @UseTGzkBot",
+            "value": ""
+        },
+        "API_HASH": {
+            "description": "Your API Hash From my.telegram.org or @UseTGzkBot",
+            "value": ""
+        },
+        "BOT_TOKEN": {
+            "description": "Your Bot Token From @BotFather",
+            "value": ""
+        },
+        "DB_URI": {
+            "description": "Your Mongo DB URL Obtained From mongodb.com",
+            "value": ""
+        },
+        "USER_SESSION": {
+            "description": "A Pyrogram User Session String. Get from https://replit.com/@ZauteKm/GenerateStringSession",
+            "value": ""
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
