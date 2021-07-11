@@ -24,7 +24,7 @@
             "value": ""
         },
         "DB_URI": {
-            "description": "Your Mongo DB URL Obtained From mongodb.com",
+            "description": "Your Mongo DB URL Obtained From mongodb.com Full Guide: https://youtu.be/nj-lJfkgb6w (Watch now)",
             "value": ""
         },
         "USER_SESSION": {
