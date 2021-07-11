@@ -58,7 +58,7 @@ OR
 - `APP_ID` And `API_HASH` From [Telegram](https://my.telegram.org) or [@UseTGzkBot](http://telegram.dog/UseTGzkBot)
 - `USER_SESSION` String Obtained From [Repl.it](https://replit.com/@ZauteKm/GenerateStringSession)
 - `DB_URL` Obtained From [Mongo DB](http://mongodb.com)
-(How to Get MongoDB URL: [Click here](https://youtu.be/nj-lJfkgb6w)
+- How to Get MongoDB URL: [Click here](https://youtu.be/nj-lJfkgb6w)
 
 ## How to Deploy
 Click the below button to watch the video tutorial on deploying
