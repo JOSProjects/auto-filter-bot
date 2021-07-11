@@ -22,7 +22,9 @@ Do Fork And Star The Repository If You Liked It.
 <details><summary>How to Use..!</summary>
 <p>
 <br>
-## How to Use...!
+**How to Use...!**
+
+
 • Add to any group and make admin.<br>
 • Add to your channel as admin with full previlages
 
