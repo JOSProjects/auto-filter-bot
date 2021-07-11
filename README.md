@@ -60,7 +60,7 @@ OR
 - Your User Session String Obtained From [Repl.it](https://replit.com/@ZauteKm/GenerateStringSession)
 - Mongo DB URL Obtained From [Mongo DB](http://www.mongodb.com)
 
-## Deploy
+## How to Deploy
 - You can deploy this bot anywhere.
 
 Click the below button to watch the video tutorial on deploying
@@ -68,7 +68,7 @@ Click the below button to watch the video tutorial on deploying
 <a href="https://youtu.be/FKaAU4Pr2bw"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a>
 <a href="https://youtu.be/FKaAU4Pr2bw"><img src="https://img.shields.io/youtube/views/FKaAU4Pr2bw?style=social">
 
-
+## Deploy Now
 <details><summary>Deploy to Heroku</summary>
 <p>
 <br>
