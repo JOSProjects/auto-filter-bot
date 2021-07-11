@@ -54,10 +54,10 @@ OR
 </details>
 
 ### Pre Requisites 
-- `BOT_TOKEN` From [@BotFather](http://www.telegram.dog/BotFather)
-- `APP_ID` And `API_HASH` From [Telegram](http://www.my.telegram.org) or [@UseTGzkBot](http://www.telegram.dog/UseTGzkBot)
+- `BOT_TOKEN` From [@BotFather](http://telegram.dog/BotFather)
+- `APP_ID` And `API_HASH` From [Telegram](https://my.telegram.org) or [@UseTGzkBot](http://telegram.dog/UseTGzkBot)
 - `USER_SESSION` String Obtained From [Repl.it](https://replit.com/@ZauteKm/GenerateStringSession)
-- `DB_URL` Obtained From [Mongo DB](http://www.mongodb.com)
+- `DB_URL` Obtained From [Mongo DB](http://mongodb.com)
 
 ## How to Deploy
 Click the below button to watch the video tutorial on deploying
