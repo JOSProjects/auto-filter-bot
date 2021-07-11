@@ -3,15 +3,13 @@
 Do Fork And Star The Repository If You Liked It.
 
 <p align="center">
-  <a href="https://github.com/tgbotsProject/Auto-Filter-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/tgbotsProject/Auto-Filter-Bot?style=social">
-
-  </a>
-  
   <a href="https://github.com/tgbotsProject/Auto-Filter-Bot/fork">
     <img src="https://img.shields.io/github/forks/tgbotsProject/Auto-Filter-Bot?label=Fork&style=social">
-
-  </a>  
+    
+  </a>
+  <a href="https://github.com/tgbotsProject/Auto-Filter-Bot">
+    <img src="https://img.shields.io/github/stars/tgbotsProject/Auto-Filter-Bot?style=social">
+  </a>
 </p>
 
 - This Is Just An Simple Advance Auto Filter Bot.
