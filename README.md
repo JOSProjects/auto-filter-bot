@@ -66,10 +66,8 @@ Click the below button to watch the video tutorial on deploying
 <a href="https://youtu.be/FKaAU4Pr2bw"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a>
 <a href="https://youtu.be/FKaAU4Pr2bw"><img src="https://img.shields.io/youtube/views/FKaAU4Pr2bw?style=social">
 
-
 ## Deploy Now
 You can deploy this bot anywhere.
-
 
 <details><summary>Deploy To Heroku</summary>
 <p>
@@ -83,11 +81,11 @@ You can deploy this bot anywhere.
 <details><summary>Deploy to VPS</summary>
 <p>
 <pre>
-`git clone https://github.com/tgbotsProject/Auto-Filter-Bot
+```git clone https://github.com/tgbotsProject/Auto-Filter-Bot
 cd Auto-Filter-Bot
 pip3 install -r requirements.txt
 # Change The Vars Of bot/__init__.py File Accordingly
-python3 -m bot`
+python3 -m bot```
 </pre>
 </p>
 </details>
