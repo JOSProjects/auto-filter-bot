@@ -69,7 +69,7 @@ Click the below button to watch the video tutorial on deploying
 ## Deploy Now
 You can deploy this bot anywhere.
 
-<details><summary>Deploy To Heroku</summary>
+<details><summary>Deploy to Heroku</summary>
 <p>
 <br>
 <a href="https://heroku.com/deploy?template=https://github.com/tgbotsProject/Auto-Filter-Bot/tree/master">
@@ -81,11 +81,11 @@ You can deploy this bot anywhere.
 <details><summary>Deploy to VPS</summary>
 <p>
 <pre>
-```git clone https://github.com/tgbotsProject/Auto-Filter-Bot
-cd Auto-Filter-Bot
-pip3 install -r requirements.txt
+```git clone https://github.com/tgbotsProject/Auto-Filter-Bot```
+```cd Auto-Filter-Bot```
+```pip3 install -r requirements.txt```
 # Change The Vars Of bot/__init__.py File Accordingly
-python3 -m bot```
+```python3 -m bot```
 </pre>
 </p>
 </details>
