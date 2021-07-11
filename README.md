@@ -69,7 +69,7 @@ Click the below button to watch the video tutorial on deploying
 ## Deploy Now
 You can deploy this bot anywhere.
 
-• <i>**[Watch Deploying Tutorial](https://youtu.be/KTearEPhumc)**</i>
+• **[Watch Deploying Tutorial](https://youtu.be/KTearEPhumc)**
 
 <details><summary>Deploy to Heroku</summary>
 <p>
