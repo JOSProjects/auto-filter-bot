@@ -57,7 +57,7 @@ OR
 - `BOT_TOKEN` From [@BotFather](http://www.telegram.dog/BotFather)
 - `APP_ID` And `API_HASH` From [Telegram](http://www.my.telegram.org) or [@UseTGzkBot](http://www.telegram.dog/UseTGzkBot)
 - `USER_SESSION` String Obtained From [Repl.it](https://replit.com/@ZauteKm/GenerateStringSession)
-- Mongo `DB_URL` Obtained From [Mongo DB](http://www.mongodb.com)
+- `DB_URL` Obtained From [Mongo DB](http://www.mongodb.com)
 
 ## How to Deploy
 Click the below button to watch the video tutorial on deploying
