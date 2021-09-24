@@ -37,7 +37,7 @@ class Bot(Client):
             plugins={
                 "root": "bot/plugins"
             },
-            workers=4,
+            workers=200,
             bot_token=BOT_TOKEN,
             sleep_threshold=10
         )
@@ -48,7 +48,7 @@ class Bot(Client):
         bot_details = await self.get_me()
         self.set_parse_mode("html")
         self.LOGGER(__name__).info(
-            f"@{bot_details.username}  started! Join @tgbotsProject "
+            f"@{bot_details.username}  started! "
         )
         self.USER, self.USER_ID = await User().start()
 
